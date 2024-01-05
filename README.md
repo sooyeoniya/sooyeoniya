@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Sooyeon Choi!
+> 
 <!--
 **sooyeoniya/sooyeoniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+![Sooyeon's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=sooyeoniya&repo=PS&theme=vision-friendly-dark)  <br>
+-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=tndus502)](https://solved.ac/tndus502) <br>
+![Sooyeoniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooyeoniya&show_icons=true&theme=neon) <br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tndus502)](https://solved.ac/tndus502) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooyeoniya&layout=compact&exclude_repo=summary,padawanr0k.github.io,playground&hide=HTML) <br>
