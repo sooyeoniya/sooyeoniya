@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ![Sooyeon's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=sooyeoniya&repo=PS&theme=vision-friendly-dark)  <br>
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=tndus502)](https://solved.ac/tndus502) <br>
-![Sooyeoniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooyeoniya&show_icons=true&theme=neon) <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tndus502)](https://solved.ac/tndus502) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooyeoniya&layout=compact&exclude_repo=summary,padawanr0k.github.io,playground&hide=HTML) <br>
+![Sooyeoniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooyeoniya\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=neon) <br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tndus502)](https://solved.ac/tndus502)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooyeoniya&layout=compact&exclude_repo=summary,padawanr0k.github.io,playground&hide=HTML&theme=highcontrast) <br>
+<!-- &theme = vision-friendly-dark, midnight-purple, chartreuse-dark -->
