@@ -1,6 +1,7 @@
-<div align="center">
+<div align="">
 
-# Hi there 👋 I'm Sooyeon Choi! 😊
+<!-- ## 🌸 Hi there, I'm Sooyeon! 🌸 -->
+## 🌼 Hi there, I'm Sooyeon! 🌼
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooyeoniya&count_bg=%23FFB4B4&title_bg=%237286D3&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/sooyeoniya)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=tndus502)](https://solved.ac/tndus502)
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooyeoniya&count_bg=%2395BDFF&title_bg=%237286D3&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/sooyeoniya)-->
