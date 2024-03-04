@@ -1,9 +1,22 @@
 <div align="">
 
-<!-- ## 🌸 Hi there, I'm Sooyeon! 🌸 -->
-## 🌼 Hi there, I'm Sooyeon! 🌼
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooyeoniya&count_bg=%23FFB4B4&title_bg=%237286D3&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/sooyeoniya)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=tndus502)](https://solved.ac/tndus502)
+## 🌸 Hi there, I'm Sooyeon! 🌸 
+<!-- ## 🌼 Hi there, I'm Sooyeon! 🌼
+
+<a href="https://dev-cheddung.tistory.com/">
+  <img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://dev-cheddung.tistory.com/"/>
+</a>
+
+<a href="mailto:choi64372820@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choi64372820@gmail.com"/>
+</a>
+-->
+
+[![My tech blog](https://img.shields.io/badge/My%20tech%20blog-38419D?style=flat-square&logo=tistory&logoColor=white)](https://dev-cheddung.tistory.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-8D9EFF?style=flat-square&logo=Gmail&logoColor=white)](mailto:choi64372820@gmail.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooyeoniya&count_bg=%23F5A6D4&title_bg=%235F5D9C&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/sooyeoniya)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=tndus502)](https://solved.ac/tndus502) -->
+
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooyeoniya&count_bg=%2395BDFF&title_bg=%237286D3&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/sooyeoniya)-->
 ### 
 <!--
