@@ -75,3 +75,9 @@ jupyter arduino aws nodejs spring springboot recoil redux reactQuery nextjs
 
 
 <!-- &theme = vision-friendly-dark, midnight-purple, chartreuse-dark, neon -->
+
+
+<!--나에 대한 소개 (about me) -->
+<!--블로그, 지메일 -->
+<!--경력: 코멘토, 졸업설계, 알고리즘 스터디, jscode 모의면접 스터디, 단기 인턴(니어바이), 사이드프로젝트(인트로미)-->
+<!--자격증: 정보처리기사, SQLD, 한국사능력검정시험 1급 -->
