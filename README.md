@@ -1,6 +1,6 @@
 <div align="">
 
-## 🌸 Hi there, I'm Sooyeon! 🌸 
+## 🌸 Sooyeon's profile 🌸 
 <!-- ## 🌼 Hi there, I'm Sooyeon! 🌼
 
 <a href="https://dev-cheddung.tistory.com/">
