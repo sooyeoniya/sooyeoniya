@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 <!--
 ![Sooyeon's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=sooyeoniya&repo=PS&theme=vision-friendly-dark)  <br>
 -->
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tndus502)](https://solved.ac/tndus502) -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tndus502)](https://solved.ac/tndus502) 
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tndus502)](https://solved.ac/tndus502) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tndus502)](https://solved.ac/tndus502)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tndus502&theme=cold)
 <br>
 ![Sooyeoniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooyeoniya\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=buefy) 
