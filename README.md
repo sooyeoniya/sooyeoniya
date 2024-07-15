@@ -13,8 +13,8 @@
 -->
 <!-- [![velog](https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@sooyeoniya) -->
 [![tistory](https://img.shields.io/badge/Tistory-38419D?style=flat-square&logo=tistory&logoColor=white)](https://dev-cheddung.tistory.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-8D9EFF?style=flat-square&logo=Gmail&logoColor=white)](mailto:choi64372820@gmail.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooyeoniya&count_bg=%23F5A6D4&title_bg=%235F5D9C&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/sooyeoniya)
+<!-- [![Gmail](https://img.shields.io/badge/Gmail-8D9EFF?style=flat-square&logo=Gmail&logoColor=white)](mailto:choi64372820@gmail.com) -->
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooyeoniya&count_bg=%23F5A6D4&title_bg=%235F5D9C&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/sooyeoniya)-->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=tndus502)](https://solved.ac/tndus502) -->
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooyeoniya&count_bg=%2395BDFF&title_bg=%237286D3&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/sooyeoniya)-->
