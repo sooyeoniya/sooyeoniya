@@ -15,7 +15,7 @@
 [![tistory](https://img.shields.io/badge/Tistory-38419D?style=flat-square&logo=tistory&logoColor=white)](https://dev-cheddung.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-8D9EFF?style=flat-square&logo=Gmail&logoColor=white)](mailto:choi64372820@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooyeoniya&count_bg=%23F5A6D4&title_bg=%235F5D9C&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/sooyeoniya)
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=tndus502)](https://solved.ac/tndus502) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=tndus502)](https://solved.ac/tndus502)
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooyeoniya&count_bg=%2395BDFF&title_bg=%237286D3&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/sooyeoniya)-->
 ### 
@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 -->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tndus502)](https://solved.ac/tndus502) -->
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tndus502&theme=cold) -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tndus502)](https://solved.ac/tndus502) <br>
-![Sooyeoniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooyeoniya\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=buefy) 
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tndus502)](https://solved.ac/tndus502) <br> -->
+<!-- ![Sooyeoniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooyeoniya\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=buefy) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooyeoniya&layout=compact&exclude_repo=summary,padawanr0k.github.io,playground&hide=HTML&theme=vue) <br> -->
 <!-- ![Sooyeoniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooyeoniya\&include_all_commits=true&theme=buefy) -->
 
